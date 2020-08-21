@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\bin\Debug\Challenges1_Console.exe.config
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\bin\Debug\Challenges1_Console.exe
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\bin\Debug\Challenges1_Console.pdb
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\obj\Debug\Challenges1_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\obj\Debug\Challenges1_Console.exe
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\obj\Debug\Challenges1_Console.pdb
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\obj\Debug\Challenges1_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\bin\Debug\ClassLibrary1.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\bin\Debug\ClassLibrary1.pdb
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges1_Console\obj\Debug\Challenges1_Console.csproj.CopyComplete

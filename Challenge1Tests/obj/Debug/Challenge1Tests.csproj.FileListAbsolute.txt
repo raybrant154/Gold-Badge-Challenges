@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Challenge1Tests.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Challenge1Tests.pdb
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\ClassLibrary1.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\ClassLibrary1.pdb
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\obj\Debug\Challenge1Tests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\obj\Debug\Challenge1Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\obj\Debug\Challenge1Tests.csproj.CopyComplete
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\obj\Debug\Challenge1Tests.dll
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenge1Tests\obj\Debug\Challenge1Tests.pdb

@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\bin\Debug\Challenges2.exe.config
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\bin\Debug\Challenges2.exe
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\bin\Debug\Challenges2.pdb
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\obj\Debug\Challenges2.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\obj\Debug\Challenges2.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\obj\Debug\Challenges2.exe
+C:\ElevenFiftyProjects\Submissions\Challenges1\Challenges2\obj\Debug\Challenges2.pdb
